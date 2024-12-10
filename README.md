@@ -2,13 +2,10 @@
 
 - 💻 Software Engineer
 
-- 💬 PT-BR/ENG
-
-- 📚 Web Developer
+- 💬 PT-BR/ENG/CH
 
 - 🎓 Studying the final stage of secondary/technical education at IFPA - Campus Óbidos
 
-- 🔒 Ethical Hacker
 
   ## 
 
