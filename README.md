@@ -1,10 +1,10 @@
-# Hello, I'm Enzo Henrique, but you can call me Vortex 👋
+# Hello, I'm Enzo Corrêa, but you can call me Vortex 👋
 
-- 💻 Software Engineer
+- 💻 Technology and cybersecurity enthusiast
 
-- 💬 PT-BR/ENG/CH
+- 🎓 Telecommunications Engineering - UNICAMP
 
-- 🎓 Studying the final stage of secondary/technical education at IFPA - Campus Óbidos
+- 💬 PT-BR/ENG
 
 
   ## 
@@ -33,14 +33,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/54dd887b-fa9a-4423-a46c-d62ff1bbf47f">
 
   ## 
-  
-<h3>Social Media: <br></h3>
-<div> 
-  <a href="https://instagram.com/uepaenzokka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/wheresvortex" target="_blank"><img loading="lazy" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fuepaenzokka" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-henrique-a321712aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 ## 
 
