@@ -32,7 +32,6 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/54dd887b-fa9a-4423-a46c-d62ff1bbf47f">
 
-  ## 
 
 ## 
 
