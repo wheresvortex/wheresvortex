@@ -1,10 +1,10 @@
-# Hello, I'm Enzo Corrêa, but you can call me Vortex 👋
+# Hello, I'm Enzo Corrêa, but you can call me Vortex 
 
-- 💻 Technology and cybersecurity enthusiast
+💻 Full stack developer and cybersecurity enthusiast
 
-- 🎓 Telecommunications Engineering - UNICAMP
+🎓 Telecommunications Engineering - UNICAMP
 
-- 💬 PT-BR/ENG
+💬 PT-BR/ENG
 
 
   ## 
